@@ -161,3 +161,4 @@ export default function Navbar({ onOpenInspector, onOpenTests, onOpenAddStudent 
     </header>
   );
 }
+

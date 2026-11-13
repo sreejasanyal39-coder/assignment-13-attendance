@@ -140,3 +140,4 @@ export const generateInitialAttendance = () => {
 
   return records;
 };
+

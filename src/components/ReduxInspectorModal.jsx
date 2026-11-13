@@ -172,3 +172,4 @@ export default function ReduxInspectorModal({ isOpen, onClose }) {
     </div>
   );
 }
+

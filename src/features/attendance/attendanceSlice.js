@@ -118,3 +118,4 @@ export default attendanceSlice.reducer;
 export const selectAttendanceRecords = (state) => state.attendance.records;
 export const selectSyncStatus = (state) => state.attendance.syncStatus;
 export const selectLastSyncTime = (state) => state.attendance.lastSyncTime;
+

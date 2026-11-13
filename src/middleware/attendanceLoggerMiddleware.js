@@ -35,3 +35,4 @@ export const attendanceLoggerMiddleware = (storeAPI) => (next) => (action) => {
   
   return result;
 };
+

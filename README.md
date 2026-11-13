@@ -1,5 +1,8 @@
 # Assignment 13: Student Attendance Management System
 
+**🌐 Live Demo:** [https://assignment-13-attendance-coral.vercel.app](https://assignment-13-attendance-coral.vercel.app)  
+**📦 GitHub Repository:** [https://github.com/sreejasanyal39-coder/assignment-13-attendance](https://github.com/sreejasanyal39-coder/assignment-13-attendance)  
+
 **Submitted By:** Sreeja Sanyal  
 **Student ID:** 231001102019  
 **Program:** BCA(H)  
@@ -56,3 +59,4 @@ npm run dev
 # Production build
 npm run build
 ```
+

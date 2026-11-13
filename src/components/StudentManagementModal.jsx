@@ -214,3 +214,4 @@ export default function StudentManagementModal({ isOpen, onClose, editingStudent
     </div>
   );
 }
+

@@ -36,3 +36,4 @@ export const saveConfig = (config) => {
     localStorage.setItem(CONFIG_KEY, JSON.stringify(config));
   } catch (e) {}
 };
+

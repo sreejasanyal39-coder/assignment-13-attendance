@@ -119,3 +119,4 @@ export const selectSearchQuery = (state) => state.filters.searchQuery;
 export const selectThresholdPercentage = (state) => state.filters.thresholdPercentage;
 export const selectShowDefaultersOnly = (state) => state.filters.showDefaultersOnly;
 export const selectStatusFilter = (state) => state.filters.statusFilter;
+
